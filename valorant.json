@@ -1,0 +1,2789 @@
+{
+    "agents": [
+      {
+        "related_content": [
+          {
+            "machine_name": "jett",
+            "title": "Jett",
+            "url": {
+              "url": "/news/tags/jett/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:22:31.000Z",
+            "id": "c575f7a9-3466-535e-8ba1-95cd2402a1e3"
+          }
+        ],
+        "id": "4244245e-b17e-56ec-9700-bb0c4e7ad516",
+        "url": {
+          "url": "/agents/jett/"
+        },
+        "title": "Jett",
+        "description": "Proviene de Corea del Sur. El ágil y evasivo estilo de pelea de Jett le permite enfrentarse a riesgos que otros no pueden. Es imparable en todos los enfrentamientos y acaba con sus enemigos antes de que sepan qué los atacó.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Propulsa a Jett hacia el aire AL INSTANTE.",
+            "ability_name": "Q: Ráfaga Ascendente",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltce7928301a67a33a/5eaf861103f6e72ff388cc20/TX_Jett_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2c46e5d7a51be140/5ecad7f552c5395e0f2dd0de/Jett_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt026ef564ec570e14/5ecad7f43a450a58554b7070/Jett_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "ACTIVA para preparar una ráfaga de viento durante un tiempo limitado. VUELVE A USAR el viento para propulsar a Jett en la dirección a la que se dirige. Si no se está moviendo, se propulsará hacia adelante.",
+            "ability_name": "E: Impulso Ciclón",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta0beeaa4a7e1ed78/5eaf8611b8a6356e4ddc1013/TX_Jett_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": null
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt45c89df43ff95236/5ecad7f44a28e119db56229a/Jett_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Lanza un proyectil AL INSTANTE que se convierte en una nube que bloquea la visión al impactar alguna superficie. MANTÉN PRESIONADA la tecla de la habilidad para cambiar la trayectoria del humo hacia donde apuntes.",
+            "ability_name": "C: Nube Explosiva",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf137993847c71770/5eaf8611d4b10d15d3e8db4e/TX_Jett_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb15019d03f48b8c3/5ecad7f7beb6c333c3a0f59d/Jett_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5e8d07aa4510028b/5ecad7f498f79d6925dbee0d/Jett_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un conjunto de cuchillos de gran precisión que se recargan al asesinar a un oponente. DISPARA para lanzar un cuchillo hacia tu objetivo y usa el DISPARO SECUNDARIO para lanzar todos los cuchillos restantes.",
+            "ability_name": "X: Tormenta de Cuchillas",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb3e956f9fb96318e/5eaf86112b79652f27c32a06/TX_Jett_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta43d8d506e2f5e00/5ecad7f6957e405e0990574d/Jett_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8386e30d869b340b/5ecad7f487617619e2be9608/Jett_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltceaa6cf20d328bd5/5eb7cdc1b1f2e27c950d2aaa/V_AGENTS_587x900_Jett.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "raze",
+            "title": "Raze",
+            "url": {
+              "url": "/news/tags/raze/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:27:45.501Z",
+            "id": "11459b35-043a-5243-b635-ad73c27e1ed8"
+          }
+        ],
+        "id": "c15aba6b-5557-5e86-aea6-1108776bf1d9",
+        "url": {
+          "url": "/agents/raze/"
+        },
+        "title": "Raze",
+        "description": "Raze llega de Brasil con su explosiva personalidad y sus grandes armas. Gracias a su contundente estilo de juego, es muy buena para separar los enemigos atrincherados y para despejar espacios estrechos con una gran cantidad de explosiones.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Lanza AL INSTANTE un Paquete Explosivo que se adhiere a las superficies. VUELVE A USAR la habilidad después de desplegar el paquete para detonarlo, lo que dañará y desplazará todo a su alcance. Raze no recibe daño por esta habilidad, pero sí sufrirá daño por caídas si salta muy alto.",
+            "ability_name": "Q: Paquete Explosivo",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdb74f287eee9fe76/5eaf862a248a28605479c91f/TX_Raze_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf3581aedf43e1ce8/5ecad83cc846021917ecbb8d/Raze_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt851c52935cc447a7/5ecad839bab1845d392dfd0b/Raze_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una granada de racimo y DISPARA para lanzarla. La granada infligirá daño por su cuenta y creará submuniciones que también infligirán daño a cualquiera que se encuentre dentro de su alcance.",
+            "ability_name": "E: Carcasas de Pintura",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb0eb89e122c1f4ea/5eaf862ad238e314f259fa8b/TX_Raze_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfe61b821c26125b7/5ecad83be2a559592eb0c1ba/Raze_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte7be24686b489fc0/5ecad83998f79d6925dbee19/Raze_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un Bumbot y DISPARA para desplegarlo. El bot se moverá en línea recta por el suelo y rebotará en los muros. El Bumbot marcará a cualquier enemigo que se encuentre en un cono frente a él y lo perseguirá. Si lo alcanza, explotará e infligirá daño masivo.",
+            "ability_name": "C: Bumbot",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt44acc030d4d60182/5eaf862aa20afe612d82fb4e/TX_Raze_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f7d7ee195ecedca/5ecad83c52c5395e0f2dd0e4/Raze_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbbb1f36d2ad31f59/5ecad839a4fe135d37f021a7/Raze_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un lanzamisiles. DISPARA para lanzar un misil que inflige daño de área masivo al entrar en contacto con algo.",
+            "ability_name": "X: Tumbadivas",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt60023b671f330740/5eaf862ae6f6795e530a2717/TX_Raze_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb15aa9cb086aed1a/5ecad83c4a28e119db5622a2/Raze_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt838bfc80336c7bf7/5ecad838f5bd13348a6cac81/Raze_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6fef56a8182d0a81/5ebf2c2798f79d6925dbd6b4/V_AGENTS_587x900_ALL_Raze_2.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "breach",
+            "title": "Breach",
+            "url": {
+              "url": "/news/tags/breach/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:28:29.567Z",
+            "id": "5c54e273-5568-5277-8b7f-268bd6d8425e"
+          }
+        ],
+        "id": "52569184-b55b-580b-b04a-4f68f50ad5d1",
+        "url": {
+          "url": "/agents/breach/"
+        },
+        "title": "Breach",
+        "description": "Breach, el sueco biónico, lanza poderosas ráfagas cinéticas para abrirse paso a la fuerza a través del territorio enemigo. El daño y la interrupción que inflige garantizarán que ninguna pelea sea justa.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA una carga cegadora y DISPARA para lanzar una ráfaga de acción rápida a través de una pared. La carga detonará y cegará a todos los jugadores que la vean.",
+            "ability_name": "Q: Fulgor",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf7b0c621601e5577/5eaf863af66b2515dea76b40/TX_Breach_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc2d5631f1babcaf0/5ec840e1bab1845d392dfc39/Breach_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3764ef50d71de9a2/5ecad7bf5e73766852c8ed88/Breach_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un rayo sísmico y MANTÉN PRESIONADO EL BOTÓN DE DISPARO para aumentar la distancia. SUÉLTALO para iniciar el temblor y aturdir a todos los jugadores que estén en la zona.",
+            "ability_name": "E: Falla Sísmica",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40b144165bebbb57/5eaf863aa20afe612d82fb54/TX_Breach_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd09eb47222cc1152/5ec840e287617619e2be955e/Breach_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9cbdc5537894fbe3/5ecad7bf4a28e119db562292/Breach_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una carga de fusión y DISPARA para lanzar una ráfaga de acción lenta a través de una pared. La ráfaga infligirá daño masivo a todos los que estén en su alcance.",
+            "ability_name": "C: Réplica",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd59235294cc21d88/5eaf863acf88d36e47cf02b1/TX_Breach_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfff097ebc7da90e9/5ec840e1e2a559592eb0c0e2/Breach_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf3d341ea0d92a8ee/5ecad7bff5bd13348a6cac71/Breach_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una carga sísmica y DISPARA para enviar un temblor en cascada por una gran zona cónica. El temblor aturde y lanza por el aire a todos los que impacta.",
+            "ability_name": "X: Trueno Rodante",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb39bc3e8df9012dc/5eaf863ad238e314f259fa93/TX_Breach_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0a47675f8b973fda/5ec840e252c5395e0f2dd038/Breach_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfc6cb1e0e2352bfa/5ecad7bf2c790a6858fa9bd4/Breach_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt100d13bfa8286a3d/5eb7cdc11ea0c32e33b95fa2/V_AGENTS_587x900_Breach.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "omen",
+            "title": "Omen",
+            "url": {
+              "url": "/news/tags/omen/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:28:54.416Z",
+            "id": "82c28a29-12bd-504b-81fa-1ee57a2275b2"
+          }
+        ],
+        "id": "72e3f02d-6306-583f-aae6-a99a9e461054",
+        "url": {
+          "url": "/agents/omen/"
+        },
+        "title": "Omen",
+        "description": "Un espectro de la memoria, Omen caza entre las sombras, ciega a los enemigos, se transporta a través del campo de batalla y deja que la paranoia los invada mientras intentan descubrir dónde atacará.",
+        "role": "Controlador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Lanza un proyectil de sombras que reduce el alcance de visión de todos los jugadores a los que alcanza durante un breve periodo. Este proyectil puede atravesar paredes.",
+            "ability_name": "Q: Paranoia",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt323e0178def67d36/5eaf85f4cf88d36e47cf02a5/TX_Omen_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5babc7e7c6c24fa0/5ecad8154a28e119db56229e/Omen_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt59821ee36b9d2e15/5ecad81298f79d6925dbee11/Omen_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un orbe de sombras y mira su indicador de alcance. DISPARA para lanzarlo hacia la ubicación marcada. El orbe creará una esfera de sombras de larga duración que bloquea la visión. MANTÉN PRESIONADO EL BOTÓN DE DISPARO SECUNDARIO mientras apuntas para alejar el marcador. MANTÉN PRESIONADA la tecla de la habilidad mientras apuntas para acercar el marcador.",
+            "ability_name": "E: Manto Oscuro",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta95e6968cb32f519/5eaf85f44398082ffe24019b/TX_Omen_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt70e2c9db1c0793df/5ecad815c846021917ecbb85/Omen_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3deb90fc282a7a17/5ecad81187617619e2be960c/Omen_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA la habilidad Paso Encubierto y mira su indicador de alcance. DISPARA para comenzar una breve canalización y luego teletranspórtate hacia la ubicación marcada.",
+            "ability_name": "C: Paso Encubierto",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7016fed86331500b/5eaf85f41b51e36d7c1b6ad6/TX_Omen_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63486e54ea52945a/5ecad815bab1845d392dfd07/Omen_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3ad8a3d9fb326bbc/5ecad811c846021917ecbb81/Omen_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un mapa estratégico. DISPARA para empezar a teletransportarte hacia la ubicación seleccionada. Mientras te teletransportas, Omen lucirá como una sombra que los enemigos podrán destruir para cancelar su teletransportación.",
+            "ability_name": "X: Desde las Sombras",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd7b44696b74076d4/5eaf85f4f66b2515dea76b2c/TX_Omen_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt65aa85bf6ba5c0e8/5ecad814a4fe135d37f021a3/Omen_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3b09d0150ce6054b/5ecad811177c51692beb1fe8/Omen_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4e5af408cc7a87b5/5eb7cdc17bedc8627eff8deb/V_AGENTS_587x900_Omen.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "brimstone",
+            "title": "Brimstone",
+            "url": {
+              "url": "/news/tags/brimstone/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:29:06.530Z",
+            "id": "f365031e-31cc-5de3-b334-0b7111edb4ac"
+          }
+        ],
+        "id": "9c63b60b-fc60-5ab4-b7b8-69f82f5ccd13",
+        "url": {
+          "url": "/agents/brimstone/"
+        },
+        "title": "Brimstone",
+        "description": "Proveniente de Estados Unidos, Brimstone proporciona una constante ventaja para su equipo con su arsenal orbital. Su habilidad otorga información de forma precisa y a distancia, lo que lo hace un comandante sin igual en el campo.",
+        "role": "Controlador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA un lanzagranadas incendiario y DISPARA para lanzar una granada que explota cuando se detiene en el suelo. Esta crea una zona de fuego que permanece en el campo y daña a los enemigos que estén dentro de ella.",
+            "ability_name": "Q: La Incendiaria",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29aa6cc80f1caa7b/5eaf8607af7e315106b47daa/TX_Brimstone_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte2b9eb1923ef64fa/5ecad7d0f5bd13348a6cac75/Brimstone_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2f4463674f62877e/5ecad7ce722d20585b2f4a40/Brimstone_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un mapa estratégico y DISPARA para marcar las ubicaciones en las que caerán las nubes de humo de Brimstone. Usa el DISPARO SECUNDARIO para confirmar y lanzar nubes de humo de larga duración que bloquearán la visión en la zona seleccionada.",
+            "ability_name": "E: Humo Celestial",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7c9f45408b1bf6e8/5eaf8607d4b10d15d3e8db48/TX_Brimstone_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcf4359fed083686b/5ecad7d198f79d6925dbee07/Brimstone_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt430cd226e29ad2a9/5ecad7cee2a559592eb0c1ac/Brimstone_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una baliza potenciadora y DISPARA para lanzarla frente a Brimstone. Al caer, Resguardo Potenciador creará un campo que aumenta la velocidad de disparo de los jugadores.",
+            "ability_name": "C: Baliza Potenciadora",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt71797e5088fa6920/5eaf8606b8a6356e4ddc100d/TX_Brimstone_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc34c3d692ea83f41/5ecad7d0177c51692beb1fe4/Brimstone_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1361dcc15368d515/5ecad7ceb42d3333c95dd1ae/Brimstone_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un mapa estratégico y DISPARA para lanzar un ataque orbital prolongado de un láser en la ubicación seleccionada. Este infligirá daño masivo con el tiempo a los jugadores que estén en la zona.",
+            "ability_name": "X: Ataque Orbital",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt68102861930b231f/5eaf8606f66b2515dea76b38/TX_Brimstone_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3d19d83ba51eb18f/5ecad7d297b46c1911ad1868/Brimstone_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4121caa2d58df901/5ecad7ce957e405e09905749/Brimstone_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26fcf1b5752514ee/5eb7cdbfc1dc88298d5d3799/V_AGENTS_587x900_Brimstone.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "phoenix",
+            "title": "Phoenix",
+            "url": {
+              "url": "/news/tags/phoenix/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:27:34.251Z",
+            "id": "e9463df0-dee4-5102-9588-a26b6ef8a702"
+          }
+        ],
+        "id": "843ffed3-978a-54ce-87c2-1b8083992003",
+        "url": {
+          "url": "/agents/phoenix/"
+        },
+        "title": "Phoenix",
+        "description": "Proviene del Reino Unido. El poder estelar de Phoenix se manifiesta en su estilo de combate al incendiar el campo de batalla con sus granadas aturdidoras y cegadoras. Sin importar si cuenta con apoyo o no, participará en la batalla bajo sus propios términos.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EEQUIPA un orbe cegador que recorre una trayectoria curva y detona poco después de lanzarlo. DISPARA para cambiar la trayectoria del orbe cegador hacia la izquierda. Este detonará y cegará a cualquier jugador que lo vea. Usa el DISPARO SECUNDARIO para cambiar su trayectoria hacia la derecha.",
+            "ability_name": "Q: Destello en Curva",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb125dfdcd673a9a8/5eaf85e95751b2150e57a803/TX_Pheonix_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltad7b0ea9be090042/5ecad82c2f5c7259287654ff/Phoenix_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5740bd20fccb2168/5ecad82987617619e2be9610/Phoenix_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una bola de fuego y DISPARA para lanzarla. Esta explotará tras cierto tiempo o al impactar el suelo, lo que creará una zona de fuego que permanecerá en el campo y dañará a los enemigos.",
+            "ability_name": "E: Manitas Calientes",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb239d633e68d9b65/5eaf85e94398082ffe240195/TX_Pheonix_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt318f7ee7d6435fac/5ecad82cf5bd13348a6cac7d/Phoenix_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltce7c9a5a585945ed/5ecad82998f79d6925dbee15/Phoenix_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un muro de fuego y DISPARA para crear una hilera de llamas que avanza, lo que creará un muro que bloquea la visión y dañará a los jugadores que lo atraviesen. MANTÉN PRESIONADO EL BOTÓN DE DISPARO para mover el muro en la dirección de tu retícula.",
+            "ability_name": "C: Muro Abrasador",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40cafc8e39b4fcbd/5eaf85e903f6e72ff388cc1a/TX_Pheonix_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf0ee7c9d84985ecf/5ecad82d957e405e09905751/Phoenix_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt37d61773b02c3229/5ecad8293a450a58554b7074/Phoenix_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Coloca al INSTANTE un marcador en la ubicación de Phoenix. Cuando esta habilidad esté activa, morir o dejar que el temporizador expire hará que la habilidad se termine y regresará a Phoenix a esa ubicación con toda su vida.",
+            "ability_name": "X: Va de Fuego",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26ed15b080ee68b1/5eaf85e91b51e36d7c1b6ad0/TX_Pheonix_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt50beaed6524c3219/5ecad82bc846021917ecbb89/Phoenix_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt66fd61b379e32d2d/5ecad828f5bd13348a6cac79/Phoenix_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf0200e1821b5b39f/5eb7cdc144bf8261a04d87f9/V_AGENTS_587x900_Phx.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "sage",
+            "title": "Sage",
+            "url": {
+              "url": "/news/tags/sage/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:27:57.630Z",
+            "id": "04387328-6e7f-5ec3-be23-3fbdb33771f9"
+          }
+        ],
+        "id": "25473efa-0b75-5337-bdc6-a0382bde1333",
+        "url": {
+          "url": "/agents/sage/"
+        },
+        "title": "Sage",
+        "description": "El bastión de China. Sage proporciona seguridad para sí misma y para su equipo en cualquier lugar. Gracias a su capacidad de revivir a sus compañeros caídos y evitar ataques agresivos, les da un lugar de protección en medio de la caótica pelea.",
+        "role": "Centinela",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt72ffc2e48d4a7a58/5eaa06852b79652f27c31ff6/Sentinel.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA un orbe de ralentización y DISPARA para lanzarlo. Este detonará al caer al suelo y creará un campo que permanecerá en la zona y ralentizará a los jugadores que estén dentro de él.",
+            "ability_name": "Q: Orbe Ralentizador",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt295acba83a83496d/5eaf85beb8a6356e4ddc1007/TX_Sage_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4f4fdcc86da69972/5ecad872722d20585b2f4a44/Sage_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb3798e22d3671b8f/5ecad86e61e4ba3491413c13/Sage_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un orbe curativo y DISPARA tras apuntar a un aliado herido para curarlo con el tiempo. Usa el DISPARO SECUNDARIO cuando Sage esté herida para curarla con el tiempo.",
+            "ability_name": "E: Orbe Curativo",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc6355bb295e64ba1/5efa55c138fa326e2aaf5c3f/TX_Sage_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf1d16edc36ba3386/5ecad87152c5395e0f2dd0ea/Sage_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3e88777ae65a1dd4/5ecad86fe2a559592eb0c1be/Sage_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un orbe de barrera. DISPARA para colocar una pared sólida. Usa el DISPARO SECUNDARIO para rotarla antes de crearla.",
+            "ability_name": "C: Orbe de Barrera",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt368b2f4136858aed/5eaf85becf88d36e47cf029f/TX_Sage_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5a0edb670c30fbdc/5ecad8732f5c725928765507/Sage_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt621128ee792a7d35/5ecad86fbeb6c333c3a0f5a1/Sage_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una habilidad de resurrección y DISPARA mientras apuntas hacia un aliado muerto para comenzar a resucitarlo. Tras un breve periodo de canalización, el aliado revivirá con toda su vida.",
+            "ability_name": "X: Resurrección",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt39a8fe8deb6389f8/5efa55d38732f51d8514604f/TX_Sage_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltef1820f276fbaa0c/5ecad871957e405e09905755/Sage_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2d10cf0861e3ebca/5ecad86f2c790a6858fa9bdc/Sage_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8a627ec10b57f4f2/5eb7cdc16509f3370a5a93b7/V_AGENTS_587x900_sage.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "sova",
+            "title": "Sova",
+            "url": {
+              "url": "/news/tags/sova/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:28:09.671Z",
+            "id": "17d5fcb1-02fa-5057-ad1d-fbdd676ad188"
+          }
+        ],
+        "id": "d4fd3441-bbdc-5dd2-9de5-0cf260def180",
+        "url": {
+          "url": "/agents/sova/"
+        },
+        "title": "Sova",
+        "description": "Proveniente de la tundra del eterno invierno de Rusia. Sova rastrea, encuentra y elimina a sus enemigos con gran eficiencia y precisión. Su arco personalizado y sus increíbles habilidades de exploración impedirán que sus enemigos puedan esconderse de él.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA un arco con un proyectil eléctrico y DISPARA para lanzarlo. El proyectil detonará al impactar y dañará a los jugadores cercanos. MANTÉN PRESIONADO EL BOTÓN DE DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para añadir hasta dos rebotes a su trayectoria.",
+            "ability_name": "Q: Proyectil Eléctrico",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltebf4f748f87b2222/5eaf85dc4398082ffe24018f/TX_Sova_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7af29765c99f807d/5ecad882722d20585b2f4a48/Sova_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4c64b8ae6ce5dc82/5ecad87e5e73766852c8ed90/Sova_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un arco con un proyectil rastreador y DISPARA para lanzarlo. El proyectil se activará al impactar y revelará la ubicación de los enemigos cercanos que estén dentro de su alcance. MANTÉN PRESIONADO EL BOTÓN DE DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para añadir hasta dos rebotes a la trayectoria de la flecha.",
+            "ability_name": "E: Proyectil Rastreador",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5084114604f20525/5eaf85b108d37e6d82ef74ef/TX_Sova_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt44b27c0d688217db/5ecad88398f79d6925dbee21/Sova_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt54feec7b0157956b/5ecad87e87617619e2be9614/Sova_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un dron búho y DISPARA para desplegarlo y controlar su movimiento. Mientras lo controlas, DISPARA para lanzar un dardo marcador que revelará la ubicación de cualquier jugador al que impacte.",
+            "ability_name": "C: Dron Búho",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt74a6f56b5c37edb5/5eaf85b1f66b2515dea76b26/TX_Sova_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt07d2025ac5dcd792/5ecad883f5bd13348a6cac89/Sova_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd3f23a9945d45d5a/5ecad87ec846021917ecbb91/Sova_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un arco con tres ráfagas de energía de largo alcance que atraviesan las paredes. DISPARA para lanzar una ráfaga de energía frente a Sova que infligirá daño y revelará la ubicación de los enemigos impactados. Puedes VOLVER A USAR esta habilidad hasta dos veces más mientras su contador esté activo.",
+            "ability_name": "X: Furia del Cazador",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5515bdb07fabe98/5eaf85b1b8a6356e4ddc1001/TX_Sova_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf9fc34106a23479c/5ecad88397b46c1911ad1872/Sova_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaeb87ed5de4b5e9d/5ecad87e177c51692beb1ff2/Sova_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf11234f4775729b7/5ebf2c275e73766852c8d5d4/V_AGENTS_587x900_ALL_Sova_2.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "viper",
+            "title": "Viper",
+            "url": {
+              "url": "/news/tags/viper/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:28:20.126Z",
+            "id": "f3cd962d-f45a-57fe-888d-df1f4eec799f"
+          }
+        ],
+        "id": "ce411f0e-e03c-56f6-8a74-dc955352f273",
+        "url": {
+          "url": "/agents/viper/"
+        },
+        "title": "Viper",
+        "description": "Química estadounidense, Viper despliega varios artefactos químicos venenosos para controlar el campo de batalla y afectar la visión de los enemigos. Si las toxinas no asesinan a su presa, sin duda lo harán sus juegos mentales.",
+        "role": "Controlador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA un emisor de gas y DISPARA para lanzarlo. Este permanecerá ahí durante toda la ronda. VUELVE A USAR la habilidad para crear una nube de gas tóxica que usa combustible. Puedes VOLVER A USAR esta habilidad varias veces y puedes recuperarla para VOLVER A DESPLEGARLA.",
+            "ability_name": "Q: Nube Venenosa",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltab09d009a46f6c08/5eaf85a2cf88d36e47cf0299/TX_Viper_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5200bab40679f96/5ecad8935e73766852c8ed94/Viper_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt02deb0a2d63865d5/5ecad88ff5bd13348a6cac8d/Viper_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un lanzador de gas y DISPARA para desplegar una larga hilera de emisores de gas. VUELVE A USAR la habilidad para crear un muro de gas tóxico que usa combustible. Puedes VOLVER A USAR esta habilidad varias veces.",
+            "ability_name": "E: Cortina Tóxica",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3c4a5fda3e7e8f16/5eaf85a226a7212f2db1beb6/TX_Viper_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt66a45c1fe76ca647/5ecad893957e405e0990575d/Viper_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf0a351040dfbf7dd/5ecad88e97b46c1911ad1876/Viper_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un lanzador de químicos. DISPARA para lanzar un contenedor que se rompe al impactar contra el suelo. Este crea una zona química que permanece en el campo, la cual daña y ralentiza a los enemigos.",
+            "ability_name": "C: Mordedura",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt93b26c70173b0875/5eaf85a3b8a6356e4ddc0ffb/TX_Viper_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5e70987e8ac2f2d6/5ecad893722d20585b2f4a4c/Viper_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd1e88035d27ac31c/5ecad88fbab1845d392dfd13/Viper_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un rociador y DISPARA para lanzar una nube de químicos en todas las direcciones alrededor de Viper, lo que crea una gran nube que reduce el alcance de visión y la vida máxima de los jugadores que estén dentro de ella.",
+            "ability_name": "X: Fosa Vipérea",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8698a8684bb39593/5eaf85a2f66b2515dea76b20/TX_Viper_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt41c75111b2eac6b5/5ecad8923a450a58554b7078/Viper_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbf238a48628453de/5ecad88f957e405e09905759/Viper_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc825c6589eda7717/5eb7cdc6ee88132a6f6cfc25/V_AGENTS_587x900_Viper.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "cypher",
+            "title": "Cypher",
+            "url": {
+              "url": "/news/tags/cypher/"
+            },
+            "description": "",
+            "created_at": "2020-04-20T07:28:42.166Z",
+            "id": "05675c15-b0cd-5845-8d51-79d395754695"
+          }
+        ],
+        "id": "163c681a-3637-5365-b1a2-9f1704646c22",
+        "url": {
+          "url": "/agents/cypher/"
+        },
+        "title": "Cypher",
+        "description": "Cypher, el agente de información marroquí, es un sistema de vigilancia de un solo hombre que puede monitorear todos los movimientos de sus enemigos. No hay secreto que no descubra ni maniobra que no detecte. Cypher siempre está vigilando.",
+        "role": "Centinela",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt72ffc2e48d4a7a58/5eaa06852b79652f27c31ff6/Sentinel.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Lanza AL INSTANTE una ciberjaula frente a Cypher. Actívala para crear una zona que bloquea la visión y ralentiza a los enemigos que la atraviesan.",
+            "ability_name": "Q: Ciberjaula",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta39b791956ecb79a/5eaf85fecf88d36e47cf02ab/TX_Cypher_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt019fa05d6b7fddef/5ecad7e597b46c1911ad186c/Cypher_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9715832e2225c4f1/5ecad7e1a4fe135d37f0219f/Cypher_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una cámara espía. DISPARA para colocarla en la ubicación seleccionada. VUELVE A USAR esta habilidad para tomar el control de la vista de la cámara. Mientras la controlas, DISPARA para lanzar un dardo marcador que revelará la ubicación de cualquier jugador al que impacte.",
+            "ability_name": "E: Cámara Espía",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt834a6ba8d533a3b7/5eaf85feaf7e315106b47da4/TX_Cypher_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47c03800823ce304/5ecad7e64a28e119db562296/Cypher_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7af9005f367b94a6/5ecad7e12c790a6858fa9bd8/Cypher_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un cable trampa. DISPARA para colocar un cable trampa destructible y camuflado en la ubicación seleccionada que creará una línea entre ese lugar y la pared opuesta. Los jugadores enemigos que activen el cable trampa quedarán atados, revelados y aturdidos tras un momento si no destruyen el dispositivo a tiempo. Puedes recogerlo y VOLVER A COLOCARLO.",
+            "ability_name": "C: Cable Trampa",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6397bce97bdb0ecd/5eaf85fef66b2515dea76b32/TX_Cypher_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9b7d004dc573791c/5ecad7e85e73766852c8ed8c/Cypher_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaae157816bfae99d/5ecad7e187617619e2be9604/Cypher_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Apunta hacia un jugador enemigo muerto y úsalo DE INMEDIATO para revelar la ubicación de todos los jugadores enemigos con vida.",
+            "ability_name": "X: Asalto Neural",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcf313af5404f8f80/5eaf85fee6f6795e530a2711/TX_Cypher_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29f3571576a3937f/5ecad7e5e2a559592eb0c1b0/Cypher_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc63181de34cd6784/5ecad7e1beb6c333c3a0f599/Cypher_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt158572ec37653cf3/5eb7cdc19df5cf37047009d1/V_AGENTS_587x900_Cypher.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "reyna",
+            "title": "Reyna",
+            "url": {
+              "url": "/news/tags/reyna/"
+            },
+            "description": "",
+            "created_at": "2020-05-10T09:55:48.429Z",
+            "id": "6d3efe6b-3d2d-5342-88ea-6b9e8475f321"
+          }
+        ],
+        "id": "3f25d476-c336-56d5-aee7-3661b83c772b",
+        "url": {
+          "url": "/agents/reyna/"
+        },
+        "title": "Reyna",
+        "description": "Desde el corazón de México, Reyna llega para dominar los duelos uno contra uno y cada asesinato que realiza aumenta su poder. Su letalidad solo está limitada por tu destreza al usarla, por lo que su eficacia dependerá mucho de ello.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Los enemigos eliminados por Reyna dejan orbes de almas que duran 3 seg. Consume al INSTANTE un orbe de almas cercano y la cura rápidamente durante un breve momento. La Vida superior a 100 que obtenga mediante esta habilidad se deteriorará con el tiempo. Si LA EMPERATRIZ está activa, lanzará automáticamente esta habilidad sin consumir el orbe.",
+            "ability_name": "Q: Devorar",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf10078de1865cc3a/5eb7cf1e241e5e628430676c/TX_Reyna_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb216220f42c804e2/5ecad85d4a28e119db5622a8/Reyna_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb0b560cdfd0311a1/5ecad85961e4ba3491413c0f/Reyna_Q.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Consume al INSTANTE un orbe de almas cercano para volverse intangible durante un breve momento. También se vuelve invisible si LA EMPERATRIZ está activa.",
+            "ability_name": "E: Desechar",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7f61a763092dca17/5eb7cf1e7e251a2d4a46fdb3/TX_Reyna_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt77e99ec99ef3a839/5ecad85e2f5c725928765503/Reyna_E_v002_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt031600b73ed45d24/5ecad85998f79d6925dbee1d/Reyna_E.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un ojo destructible y etéreo. ACTÍVALO para lanzarlo a una corta distancia y todos los enemigos que lo vean se ofuscarán.",
+            "ability_name": "C: La Mirada",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1df6153d75480d43/5eb7cf1e8682422a765fc997/TX_Reyna_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf6109b8be97e8d96/5ecad85db42d3333c95dd1b2/Reyna_C_v002_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt870b90c059c8887b/5ecad859177c51692beb1fee/Reyna_C.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Entra al INSTANTE en un frenesí, lo que aumenta considerablemente la velocidad de disparo, equipamiento y recarga. Al lograr un asesinato, se restablece la duración.",
+            "ability_name": "X: La Emperatriz",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte8a8889d3b17a9b9/5eb7cf1e1ea0c32e33b95fa6/TX_Reyna_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltadf53a38e449cb4d/5ecad85cbab1845d392dfd0f/Reyna_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2864542a6241ac57/5ecad859f5bd13348a6cac85/Reyna_X.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6577b1f58530e6b2/5eb7cdc121a5027d77420208/V_AGENTS_587x900_Reyna.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "killjoy",
+            "title": "Killjoy",
+            "url": {
+              "url": "/news/tags/killjoy/"
+            },
+            "description": "",
+            "created_at": "2020-07-29T05:10:53.242Z",
+            "id": "cd5f240e-d626-50bf-9865-ef4a20a6f220"
+          }
+        ],
+        "id": "fef4b448-ef84-59d7-9213-1f1136654080",
+        "url": {
+          "url": "/agents/killjoy/"
+        },
+        "title": "Killjoy",
+        "description": "Killjoy, la prodigio de Berlín, asegura fácilmente el campo de batalla con un arsenal de dispositivos. Si el daño que inflige su equipamiento no detiene a sus enemigos, la debilitación de sus robots la ayudarán a aniquilarlos.",
+        "role": "Centinela",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt72ffc2e48d4a7a58/5eaa06852b79652f27c31ff6/Sentinel.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA un Alarmabot encubierto. DISPARA para desplegar un bot que caza a los enemigos que entren en su alcance. Después de alcanzar a su objetivo, el bot explota, lo que inflige daño y aplica Vulnerable. MANTÉN PRESIONADO EQUIPAR para recuperar un bot desplegado.",
+            "ability_name": "Q: Alarmabot",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt143467a7379d4211/5f21feb94d73a00a2e1428d3/Copy_of_TX_KJ_Alarm.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9a8fa11ac887550e/5f2203522f812a7c016f5651/AlarmBot_LowQuality.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6c9f615c2c295583/5f2a0a6d48bdc47f3f1e5621/Alarmbot_Screenshot.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una Torreta. DISPARA para desplegar una torreta que les dispara a los enemigos cercanos en un cono de 180 grados. MANTÉN PRESIONADO EQUIPAR para recuperar una torreta desplegada.",
+            "ability_name": "E: Torreta",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a4926627b38cc1a/5f2201490e38240638cd81d2/Copy_of_tx_kj_turret.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0fe3462ae9a025a4/5f220396074360086ccdd908/Turret_LowQuality.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1f365271ed77ee3b/5f2a095728ef1e01dfb4ff89/Turret_Screenshot.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una granada de Nanoplaga. DISPARA para lanzar la granada. La Nanoplaga queda encubierta al aterrizar. ACTIVA Nanoplaga para desplegar un mortal enjambre de nanobots.",
+            "ability_name": "C: Nanoplaga",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4e53712407193852/5f22010d8ff50d070ad2d172/Copy_of_TX_KJ_Bees.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4aed833e1b0df155/5f2204694be7297d7e6c8449/Grenade_LowQuality.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt34ce32d19cc27499/5f2a0a2128ef1e01dfb4ff8d/Nanoswarm_Screenshot.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA el Dispositivo Inmovilizador. DISPARA para desplegar el dispositivo. Tras cargar, el dispositivo detiene a todos los enemigos dentro de su radio. Los enemigos pueden destruir el dispositivo.",
+            "ability_name": "X: Dispositivo Inmovilizador",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1e4113a934e67fa3/5f22018d71ec397ef9bf089e/Copy_of_TX_KJ_Lockdown.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf74d72b162a14692/5f2204ab8ff50d070ad2d192/Ultimate_LowQualityV02.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2f1dfb857f1b23f0/5f2a098b7ca22b018aed6af1/Lockdown_Screenshot.png"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt53405c26141beff8/5f21fda671ec397ef9bf0894/V_AGENTS_587x900_KillJoy_.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "skye",
+            "title": "Skye",
+            "url": {
+              "url": "/news/tags/skye/"
+            },
+            "description": "",
+            "created_at": "2020-10-06T20:47:52.035Z",
+            "id": "dd4f3c00-b9c0-54cf-917a-6ddafe274be0"
+          }
+        ],
+        "id": "4cb42650-13eb-543a-a4a8-857a5ca05db3",
+        "url": {
+          "url": "/agents/skye/"
+        },
+        "title": "Skye",
+        "description": "Procedentes de Australia, Skye y su manada de bestias se abren paso por territorio hostil. Con sus creaciones que obstaculizan al enemigo y su poder para sanar a los demás, los equipos serán más fuertes y seguros al lado de Skye.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "TE EQUIPAS un artefacto de tigre de Tasmania. DISPARA para enviar y tomar el control del depredador. Mientras lo controlas, DISPARA para saltar hacia adelante, lo que provoca una explosión contusiva e inflige daño a los enemigos alcanzados directamente.",
+            "ability_name": "Q: Forjacaminos",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta3c0de454b776542/5f7fa772e69fa40ef3183bda/SKye-abilities-_0000s_0003_ICONS_0000_Layer-1.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt90a6f2733b96ce16/5f7faa7dd4fbb50ef307791e/Val_Skye_Q_Ability_Web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt34cf2a10c2fc74a4/5f7faa90dac9270efe3616f7/Val_Skye_Q_Ability.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "TE EQUIPAS un artefacto de halcón. DISPARA para enviarlo hacia adelante. MANTÉN PRESIONADO EL DISPARO para guiar al halcón en la dirección de tu retícula. REUTILÍZALA mientras el halcón está en vuelo para transformarlo en un destello que lanza un sonido de confirmación si un enemigo estaba dentro del alcance y campo visual.",
+            "ability_name": "E: Luz Guía",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7243683c6daf467d/5f7fa7729d46c20f09177ab7/SKye-abilities-_0000s_0002_ICONS_0001_Layer-2.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8ecea4a77a26c25b/5f7fab7adf178b0ea98495a5/Val_Skye_E_Ability_Web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6099cdc0cead8ef3/5f7fab5ed4fbb50ef3077922/Val_Skye_E_Ability.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "TE EQUIPAS un artefacto de curación. MANTÉN PRESIONADO EL DISPARO para canalizar, lo que cura aliados dentro del alcance y campo visual. Se puede reutilizar hasta que se agote la energía de curación. Skye no puede curarse a sí misma.",
+            "ability_name": "C: Regeneración",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaa1ff9d900a13d3a/5f7fa772f98ad40e91dc75e4/SKye-abilities-_0000s_0001_ICONS_0002_Layer-3.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0f5403509070a0a2/5f7fabc5879de80eb41b1f33/Val_Skye_C_Ability_Web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcd5c7a1c6b7ca6ba/5f7fabb6f11ee70e9e14ef9e/Val_Skye_C_Ability.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "TE EQUIPAS un artefacto de buscador. DISPARA para enviar tres buscadores a rastrear a los tres enemigos más cercanos. Si un buscador alcanza su objetivo, lo ofusca.",
+            "ability_name": "X: Buscadores",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltce2ce64e31a00348/5f7fa77202e6b80ebf902384/SKye-abilities-_0000s_0000_ICONS_0003_Layer-4.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt966535853a54c58c/5f7fac19df178b0ea98495ad/Val_Skye_X_Ability_Web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2a32844399560f56/5f7fac0a3dea860e7be3e938/Val_Skye_X_Ability.png"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt302fcb2b9628c376/5f7fa6ff8db9ea0f149ece0a/V_AGENTS_587x900_ALL_Skye.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "yoru",
+            "title": "Yoru",
+            "url": {
+              "url": "/news/tags/yoru/"
+            },
+            "description": "",
+            "created_at": "2021-01-06T07:39:41.655Z",
+            "id": "2204ab09-a442-5648-814f-a6822a16366e"
+          }
+        ],
+        "id": "1cb0c5d2-36be-5975-a182-acfbdf0b12cd",
+        "url": {
+          "url": "/agents/yoru/"
+        },
+        "title": "Yoru",
+        "description": "El nativo de Japón, Yoru, fractura la realidad para infiltrarse en las líneas enemigas sin ser visto. Con engaños y agresividad por igual, sorprende a sus objetivos antes de que sepan dónde buscarlo.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUÍPALO para arrancar un fragmento dimensional inestable de la realidad. DISPARA para lanzar el fragmento, lo que activa un destello que termina una vez que choca con una superficie dura en el mundo.",
+            "ability_name": "Q - Punto Ciego",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt54759b7874fbd40c/5ff5681bb47cdf7fc7d6c3e6/Yoru_Anility_Icons_512x512_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9af4e1e3b962f7b4/5ff77b6fa703d10ab87ebb27/Yoru_Abilities_Blinding_1_1.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5b34d2bfff6acd6c/5ff77a206aab641cd100f62a/Yoru_blind_thumbnail.PNG"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUÍPALO para usar un vínculo dimensional. DISPARA para lanzar el vínculo. Usa el DISPARO SECUNDARIO para colocar un vínculo en el lugar. ACTÍVALO para teletransportarte a la ubicación del vínculo.",
+            "ability_name": "E: Infiltración",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5427236bf8a82b05/5ff5685e1166ce7d2ed1bd5d/yoru_ability_icons_52x512_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0945f456a2bcac77/62215a1f47e4d72e3e67ff1a/Website_Yoru_Rework_Gatecrash_v2.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt161b032e543b63cb/622159dd2f7a0b2e3f26cfdd/VAL_YoruRework_GateCrash_1.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un eco que imita el sonido de pisadas cuando se activa. DISPARA para activarlo y enviar el eco hacia adelante. Usa el DISPARO SECUNDARIO para colocar un eco en el lugar. USA el eco inactivo para enviarlo hacia adelante.",
+            "ability_name": "C - Engaño",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3ffa0e1858916cb8/622159a1c56d222d0cb0cc12/TX_Yoru_Fakeout.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47c96a79f14605fc/62215aaed83ad851e8a9e09d/Website_Yoru_Rework_Fakeout_v2.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9c8bf003fa594d5a/62215ac6c56d222d0cb0cc18/VAL_YoruRework_FakeOut_1.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una máscara que puede ver entre dimensiones. DISPARA para viajar hacia la dimensión de Yoru, donde los enemigos no pueden afectarlo o verlo desde el exterior.",
+            "ability_name": "X - Cambio Dimensional",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltceb6f71853fa7be7/5ff568b3396e65084a9e8c7c/Yoru_Anility_Icons_512x512_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt95a89496da772b65/62215bbd6f0333490a0e7bec/Website_Yoru_Rework_Dimensional_Drift_v2.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7c3164bbdd8b4da7/62215baf6f0333490a0e7bea/VAL_YoruRework_Dimensional_Drift_1.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd4080f8efb365751/5ff5660bb47cdf7fc7d6c3dc/V_AGENTS_587x900_yoru.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "astra",
+            "title": "Astra",
+            "url": {
+              "url": "/news/tags/astra/"
+            },
+            "description": "",
+            "created_at": "2021-02-24T18:08:57.043Z",
+            "id": "de722a95-8f5a-581b-8b39-0fc47a0d617e"
+          }
+        ],
+        "id": "0e1e85f1-513b-5c1b-afdb-fc7c205f19f7",
+        "url": {
+          "url": "/agents/astra/"
+        },
+        "title": "Astra",
+        "description": "La agente ghanesa Astra canaliza las energías del cosmos para remodelar los campos de batalla a su antojo. Con pleno dominio de su forma astral y un talento para una profunda previsión estratégica, siempre está eones por delante del próximo movimiento de su enemigo.",
+        "role": "Controlador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Coloca estrellas en Modo Astral (X)\n\nACTIVA una estrella para detonar un Pulso Estelar. El Pulso Estelar carga brevemente y luego ataca, lo que aturde a todos los jugadores en el área.",
+            "ability_name": "Q: Pulso Estelar",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8205d4a5a6cf1fca/6039aa950efbd9779b028acd/Astra_Ability_Icons_Q_NovaPulsev2.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt78e556d97ea93fc9/6036c92572c04c12c9563dff/RIFT21_Astra_Ability_Q.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbaa27d1d575f17b5/6036c91e99494e6c4f166b11/Astra_Q_NovaPulse_thumbnail.PNG"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Coloca estrellas en Modo Astral (X)\n \nACTIVA una estrella para transformarla en una Nebulosa (humo). \n\nUsa (F) en una estrella para Disiparla, lo que devuelve la estrella para colocarla en una nueva ubicación después de un momento.\n \nDisipar forma una Nebulosa falsa brevemente en la ubicación de la estrella antes de regresar.",
+            "ability_name": "E: Nebulosa",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt60eb8df261fc5d0b/6039aaa62eee966ee2e3d52e/Astra_Ability_Icons_E_Nebulav2.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3be9010588cba144/6036c924427f5d75042c3ae5/RIFT21_Astra_Ability_E_F.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd89538cce79450b4/6036c91b0efbd9779b027aa5/Astra_E_Nebula_thumbnail.PNG"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Coloca estrellas en Modo Astral (X)\n \nACTIVA una estrella para formar un Pozo Gravitacional. Los jugadores en el área son atraídos hacia el centro antes de que estalle, lo que causa que todos los jugadores que aún siguen atrapados se vuelvan frágiles.",
+            "ability_name": "C: Pozo Gravitacional",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9cb14de8632bd26e/6039aab70efbd9779b028ad1/Astra_Ability_Icons_C_GravityWellv2.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaba20d81cc601af4/6036c92599494e6c4f166b19/RIFT21_Astra_Ability_C.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta98bfb82d2327a62/6036c918946aa93dbe5997d3/Asrta_C_GravityWell_thumbnail.PNG"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "ACTIVA (X) para entrar en Modo Astral donde puedes colocar estrellas con tu DISPARO PRINCIPAL. Puedes reactivar las estrellas más tarde, lo que las transforma en un Pulso Estelar, Nebulosa o Pozo Gravitacional.\n\nCuando División Cósmica esté cargada, usa el DISPARO SECUNDARIO en Modo Astral para comenzar a apuntar, luego el DISPARO PRINCIPAL para elegir dos ubicaciones. Una División Cósmica infinita conecta los dos puntos que selecciones. División Cósmica bloquea las balas y amortigua considerablemente el audio.",
+            "ability_name": "X: Modo Astral/División Cósmica",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5b7c62ae295bac95/6039aac8946aa93dbe59a693/Astra_Ability_Icons_X_CosmicDividev2.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltca94f8d6f8e4c91d/6036c92499494e6c4f166b15/RIFT21_Astra_Ability_ULT.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5f21ebc26195ffd7/6036c919427f5d75042c3ae1/Astra_X_CosmicDivide_thumbnail.PNG"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5599d0d810824279/6036ca30ce4a0d12c3ec1dfa/V_AGENTS_587x900_Astra.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "kay/o",
+            "title": "Kay/o",
+            "url": {
+              "url": "/news/tags/kay/o/"
+            },
+            "description": "",
+            "created_at": "2021-06-16T18:42:43.599Z",
+            "id": "52562975-e98f-58bd-b8ed-493c1f8264ed"
+          }
+        ],
+        "id": "33e54ba1-56b8-583e-a286-bc45592158ae",
+        "url": {
+          "url": "/agents/kay-o/"
+        },
+        "title": "KAY/O",
+        "description": "KAY/O es una máquina de guerra creada con un solo propósito: neutralizar radiantes. Su poder para suprimir las habilidades enemigas neutraliza la capacidad de sus rivales para contraatacar, un aspecto que le da a él y a sus aliados la ventaja definitiva en la batalla.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA una granada cegadora. DISPARA para lanzarla. La granada cegadora explota después de un breve tiempo y ciega a todos en la línea de visión.",
+            "ability_name": "Q - Memoria/FLASH",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt83e92ae578e66b8e/60d204231e0505677a882f38/Q_FlashDrive.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltab2fead35a9b412d/60cce5d49b520349ac9d080d/KAYO_C_v002_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9be85004e15ce9f8/60cce60083f9fe49a6fee845/KAYO_C_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una cuchilla de supresión. DISPARA para lanzarla. La cuchilla se pega contra la primera superficie que toca, luego explota y suprime a cualquier oponente que se encuentre en el radio de la explosión.",
+            "ability_name": "E - Punto/CERO",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt496288e7ab899b47/60d2018db930a53616fa4882/E_ZeroPoint.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt11ab79d777cba68e/60cce41a07060a4ae3f12ff1/KAYO_E_v002_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt92b7ccdbc2ee40b6/60cce60307060a4ae3f1301b/KAYO_E_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un fragmento explosivo. DISPARA para lanzarlo. El fragmento se pega al piso y explota varias veces, lo que inflige daño casi mortal en el centro con cada explosión.",
+            "ability_name": "C - FRAG/mentación",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte671cefaedb07d26/60d2046483f9fe49a6fef713/C_FragMent.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6372c1b58baf8ca2/60cce401ae0d50495b4f7e31/KAYO_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3e3dd8fa98f69703/60cce6041e0505677a88207e/KAYO_Q_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Se sobrecarga AL INSTANTE con energía de radianita polarizada que le da poder a KAY/O y causa que grandes pulsos de energía emanen desde su ubicación. Los enemigos impactados por dichos pulsos quedan suprimidos durante un breve momento.",
+            "ability_name": "X - NULL/cmd",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltead1f4cb9ad32e19/60d20208bcec595109d831c2/X_NullCmd.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6cd3a6f6e99152f8/60cce43683f9fe49a6fee835/KAYO_X_v003_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb707391171bc8d65/60cce606610188558e3b4714/KAYO_X_web.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte5aefeb26bee12c8/60ca5aa30ece0255888d7faa/KAYO_KeyArt_587x900.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "chamber",
+            "title": "Chamber",
+            "url": {
+              "url": "/news/tags/chamber/"
+            },
+            "description": "",
+            "created_at": "2021-10-27T23:24:37.220Z",
+            "id": "6b5ef6c8-5102-5b96-b89d-4680034474c9"
+          }
+        ],
+        "id": "f889b6bf-29a4-5d9e-b37c-138292f495e4",
+        "url": {
+          "url": "/agents/chamber/"
+        },
+        "title": "Chamber",
+        "description": "Bien vestido y bien armado, el diseñador de armas francés Chamber repele agresores con una precisión mortal. Aprovecha su arsenal personalizado para mantener a los enemigos a raya y eliminarlos desde lejos. Siempre cuenta con la contingencia perfecta para cada plan.",
+        "role": "Centinela",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt72ffc2e48d4a7a58/5eaa06852b79652f27c31ff6/Sentinel.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "ACTÍVALA para equipar una pistola pesada. Presiona DISPARO SECUNDARIO con la pistola equipada para usar la mira.",
+            "ability_name": "Q - Cazador de cabezas",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt734ce749d24f1b4f/618d9ebad380f814d61f0020/Chamber_ability_Q.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc97eeaeb138d2155/618d9fb7867d1817d95f3b2b/VAL_broll_EP03-3_Chamber_Q.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfb8eb9621d56bf7e/618d9f734a9f386e6e59410e/VAL_broll_EP03-3_Chamber_Q_Thumb.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "COLOCA un anclaje de teletransportación. Mientras estés en el suelo y dentro de su zona de alcance, REACTIVA la habilidad para teletransportarte rápidamente al anclaje. Puedes recoger el anclaje para VOLVER A COLOCARLO en otro lugar.",
+            "ability_name": "E - Rendezvous",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt273c7e9db39da271/618d9ec29dccbf6fa4178520/Chamber_ability_E.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": null
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt254c713beb3992ae/618d9f854eed0e4a24dc9a3c/VAL_broll_EP03-3_Chamber_E_Thumb.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "COLOCA una trampa que escanea los alrededores buscando enemigos. Cuando un enemigo visible entra en contacto, esta comienza una cuenta regresiva que, al terminar, desestabiliza el terreno a su alrededor y crea un área que permanece en la zona y ralentiza a los enemigos dentro de ella. Puedes recoger la trampa para VOLVER A COLOCARLA en otro lugar.",
+            "ability_name": "C - Marca registrada",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4c14aadba51a0037/618d9ed03b08dd14d79a8087/Chamber_ability_C.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": null
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt60f17c2e2dd9f269/618d9f934eed0e4a24dc9a44/VAL_broll_EP03-3_Chamber_C_Thumb.png"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "ACTÍVALA para invocar un poderoso rifle de francotirador personalizado que mata a cualquier enemigo al que impacte directamente. Matar a un enemigo crea un área que permanece en la zona y ralentiza a los jugadores que queden dentro de ella.",
+            "ability_name": "X - Tour de Force",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6856745815feee67/618d9eda3b08dd14d79a808b/Chamber_ability_X.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1280,
+                  "height": 720,
+                  "file": null
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta3d49a36ac92f4c8/618d9fa0d11a660213027092/VAL_broll_EP03-3_Chamber_X_Thumb.png"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6f1392b30784e029/618d9da0d380f814d61f001c/WebUpdate_Chamber_KeyArt.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "neon",
+            "title": "Neon",
+            "url": {
+              "url": "/news/tags/neon/"
+            },
+            "description": "",
+            "created_at": "2022-01-03T19:59:45.610Z",
+            "id": "163f9e08-1456-5260-8629-81897c853132"
+          }
+        ],
+        "id": "ad6e2c6b-9a97-5bf0-8c9a-269eda712316",
+        "url": {
+          "url": "/agents/neon/"
+        },
+        "title": "Neon",
+        "description": "La agente filipina, Neon, avanza a velocidades impactantes, descargando ráfagas de energía bioeléctrica tan rápido como su cuerpo la genera. Se adelanta velozmente a sus enemigos para atraparlos desprevenidos y luego los fulmina más rápido que un rayo.",
+        "role": "Duelista",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt213441880cf2cdf5/5eaa06851b51e36d7c1b61d4/Duelist.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Lanza un rayo de energía INSTANTÁNEO que rebota una vez. Luego de golpear cada superficie, el rayo electrifica el terreno debajo, lo que provoca una explosión conmocionante.",
+            "ability_name": "Q - ELECTRORREBOTE",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt10d37aa745665f36/61d8a80814ef402247ceab30/Neon_Q-Relay_Bolt.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf634e203f29987a5/61d8a91abf9cb8387cc1d9c8/VAL_Neon_Ability-Q_Preview_Stun_noHUD_Web_h264.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9ff9e3860fcdc4ec/61d8a90b1009c9654aca5f29/VAL_Neon_Ability-Q_Preview_Stun_noHUD_Web_h264.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Al cargarse, utiliza el DISPARO SECUNDARIO para activar un deslizamiento eléctrico. La carga del deslizamiento se reinicia cada dos asesinatos.",
+            "ability_name": "E - VELOCIDAD RELÁMPAGO",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc7f73a2cfc4e3e44/61d8a8181757dc6aed2ada7c/Neon_E-High_Gear.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt99e20f893b806cc8/61d8a9608aabbf6426b7523a/VAL_Neon_Ability-E_Preview_Sprint_noHUD_Web_h264.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta7f8610b905c0ea3/61d8a957ef206c6c5e4941b6/VAL_Neon_Ability-E_Preview_Sprint_noHUD_Web_h264.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "DISPARA dos líneas de energía hacia adelante por el suelo que se extienden por una corta distancia o hasta golpear contra una superficie. Las líneas se convierten en paredes de electricidad estática que bloquean la visión y dañan a cualquier enemigo que quiera atravesarlas.",
+            "ability_name": "C - CARRIL RÁPIDO",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt50ac2316cddbb64d/61d8a8209efff26ae759809a/Neon_C-Fast_Lane.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt023814e24e6cad2f/61d8a98914ef402247ceab3a/VAL_Neon_Ability-C_Preview_Walls_noHUD_Web_h264.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt51e635444e253d56/61d8a9818b16776549dee737/VAL_Neon_Ability-C_Preview_Walls_noHUD_Web_h264.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Desata todo el poder y la velocidad de Neon por un tiempo corto. DISPARA para canalizar todo su poder en un rayo mortal con gran precisión de movimiento. La duración se reinicia con cada asesinato.",
+            "ability_name": "X - POTENCIA MÁXIMA",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcf74e9670f324266/61d8a829997c0e224de09fae/Neon_X-Overdrive.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcbe0e9c4b801f025/61d8a9dfef206c6c5e4941ba/VAL_Neon_Ability-X_Preview_Ult_noHUD_Web_h264.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blteea2e907462de97a/61d8a9d42e109d6c649d3b2a/VAL_Neon_Ability-X_Preview_Ult_noHUD_Web_h264.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8093ba7b5e84ed05/61d8a63ddea73a236fc56d12/Neon_KeyArt-Web.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "fade",
+            "title": "Fade",
+            "url": {
+              "url": "/news/tags/fade/"
+            },
+            "description": "",
+            "created_at": "2022-04-18T19:23:01.301Z",
+            "id": "e0707f48-d255-54fe-8db5-b514f7710f61"
+          }
+        ],
+        "id": "d0b3027e-c301-51e6-8aab-b0ba113361c5",
+        "url": {
+          "url": "/agents/fade/"
+        },
+        "title": "Fade",
+        "description": "Fade, la cazarrecompensas turca, desata el poder de las pesadillas para apoderarse de los secretos del enemigo. En armonía con el terror puro, acecha a sus objetivos y revela sus miedos más profundos antes de aplastarlos en la oscuridad.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "Equipa un orbe de tinta de las pesadillas. DISPARA para lanzar el orbe, el cual caerá en picada al suelo después de un tiempo determinado. Al impactar contra el suelo, la tinta explotará y creará una zona en la que los enemigos que queden atrapados en ella no podrán escapar por medios normales. VUELVE A USAR la habilidad para dejar caer el proyectil anticipadamente mientras vuela.",
+            "ability_name": "Q - Capturar",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt80d49ffb1f533029/625db8131574214ead41fc2f/Fade_-_Q_-_Seize.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbec73caca7bf1045/62701777bae21939d5444b9e/Q-seize_video_NEW.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc1d3cea9249d9375/625f2c16bb3f724c520e9f89/Q-seize_thumbnail.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "Equipa una entidad de las pesadillas. DISPARA para lanzar el orbe, el cual caerá en picada al suelo después de un tiempo determinado. Al impactar contra el suelo, el orbe se convertirá en un ente de las pesadillas que revelará la ubicación de los enemigos en su línea de visión. Los enemigos pueden destruir esta entidad. VUELVE A USAR la habilidad para dejar caer el proyectil anticipadamente mientras vuela.",
+            "ability_name": "E - Atormentar",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltff792b334e149272/625db875fd9afd4b1fe2fbf2/Fade_-_E_-_Haunt.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt82a21218065dc472/625f2c47fd9afd4b1fe300ea/E-Haunt_video.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt28ae3a43d44a2ad4/625f2c2db9aa584a4e326cc6/E-Haunt_thumbnail.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una Acechadora. DISPARA para lanzar a la Acechadora, que viajará en línea recta. La Acechadora se enfocará en cualquier enemigo o rastro en su cono de visión frontal y lo perseguirá y ofuscará si lo alcanza. MANTÉN PRESIONADO el botón de DISPARO para guiar a la Acechadora en la dirección de tu retícula.",
+            "ability_name": "C - Acechadora",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc12f51743ac56940/625db87d7e7b344b2534f838/Fade_-_C_-_Prowler.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf4e7a6525fe6ec42/625f2c7cfd9afd4b1fe300ee/C-Prowler_video.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9cd101a1333bea21/625f2c64e4b2fd4fda37c5c2/C-Prowler_thumbnail.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA el poder del Miedo. DISPARA para lanzar una onda de energía de las pesadillas que puede atravesar paredes. La energía crea un rastro hacia el oponente, además de ensordecerlo y debilitarlo.",
+            "ability_name": "X - Anochecer",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt70f96353cf61d295/625db8887e7b344b2534f83c/Fade_-_X_-_Nightfall.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": null,
+                  "height": null,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt75dfbdc2fbf6bfe1/625f2ba62777714c51b313be/X-Nightfall_Video.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb09545f5a5f7e1aa/625f2bbdd22f554a53caa3ce/X-Nightfall_Thumbnail.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt516d37c6c84fcda0/625db737c9aa404b76ddd594/Fade_Key_Art_587x900_for_Website.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "harbor",
+            "title": "Harbor",
+            "url": {
+              "url": "/news/tags/harbor/"
+            },
+            "description": "",
+            "created_at": "2022-10-10T23:55:43.866Z",
+            "id": "281e9102-8025-52a8-b186-64db30c7db9e"
+          }
+        ],
+        "id": "17b2caf9-6c8c-5e93-8d25-ad328fdfc738",
+        "url": {
+          "url": "/agents/harbor/"
+        },
+        "title": "Harbor",
+        "description": "Originario de las costas de la India, Harbor arrasa el campo de batalla utilizando tecnología ancestral que controla el agua. Desata corrientes furiosas y olas aplastantes para escudar aliados y apalear oponentes.",
+        "role": "Controlador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA una esfera de agua protectora. DISPARA para lanzar. Usa el DISPARO SECUNDARIO para lanzar por abajo. Al impactar contra el suelo, genera un escudo de agua destructible que bloquea balas.",
+            "ability_name": "Domo (Q)",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta7b530a6396a2fee/6348a9e88473831f96bbc3ab/TX_Mage_ShieldGrenade.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a7cd79cbb632c3c/6349d6906a938c238802a820/Harbor_Q_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt03312b0d6f76b8cd/6349d62d6245b53fdaedb052/Q_Thumbnail_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA un muro de agua. DISPARA para enviar el agua hacia adelante por el suelo. MANTÉN PRESIONADO EL DISPARO para guiar el agua en la dirección de tu retícula, y genera un muro a lo largo de la trayectoria del agua. Puede atravesar paredes. Usa el DISPARO SECUNDARIO mientras curvas el muro para detener su trayectoria anticipadamente. Los jugadores impactados quedan RALENTIZADOS.",
+            "ability_name": "Marea Alta (E)",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc713955823a626c5/6348a9e8dc111e1f95032df0/TX_Mage_WaterWall.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte6e80f8936913459/6349d682b0662c1e9a67222a/Harbor_E_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd0da35e2c677f3d4/6349d629003fd824f29fa441/E_Thumbnail_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA una ola de agua. DISPARA para lanzar la ola hacia adelante y a través de los muros. REUTILÍZALA para detener el avance de la ola. Los jugadores impactados quedan RALENTIZADOS.",
+            "ability_name": "Cascada (C)",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8f7e1a26b7bae10b/6348a9e8e9d2c541844df812/TX_Mage_TidalWave.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8fb30bd82f7dcd97/6349d669b2dba3104a11dde4/Harbor_C_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5f6bd7cbf0909e27/6349d62b1e79f1285f687163/C_Thumbnail_web.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA todo el poder de tu artefacto. DISPARA para invocar una zona de géiseres en el suelo. Los enemigos que se encuentren en la zona serán el objetivo de varios impactos sucesivos de géiseres. Los jugadores que reciban un impacto quedarán CONMOCIONADOS.",
+            "ability_name": "Cataclismo (X)",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltba6bb33d886bfa80/6348a9e85e281916980f657d/TX_Mage_Tempest.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0536369c7a3b7986/6349d677c96b72418f47a8c4/Harbor_X_v001_web.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt093bac82a28b2eee/6349d628b3f39b38fccfc51c/X_Thumbnail_web.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt81e8a3e8c7beeaf3/634894a15e281916980f655b/Harbor_KeyArt-web.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      },
+      {
+        "related_content": [
+          {
+            "machine_name": "gekko",
+            "title": "Gekko",
+            "url": {
+              "url": "/news/tags/gekko/"
+            },
+            "description": "",
+            "created_at": "2023-03-01T02:15:28.771Z",
+            "id": "b4e731c8-3b6e-59f3-bfcd-997fa590da6b"
+          }
+        ],
+        "id": "202eab51-c32f-5844-b3d9-cd2639a3e99a",
+        "url": {
+          "url": "/agents/gekko/"
+        },
+        "title": "Gekko",
+        "description": "Gekko, el nativo de Los Ángeles, lidera un grupo de criaturas revoltosas y son como uña y mugre. Sus amiguitos avanzan a toda velocidad, dispersando a los enemigos, y Gekko los persigue para reagruparlos y lanzarlos de nuevo.",
+        "role": "Iniciador",
+        "role_icon": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+        },
+        "abilities": [
+          {
+            "ability_description": "EQUIPA a Carnalito. DISPARA para enviar a Carnalito hacia adelante en busca de enemigos; Carnalito libera una explosión contusiva hacia el primer enemigo que ve. Usa DISPARO SECUNDARIO al apuntar a un sitio de Spike o a una Spike plantada para que Carnalito plante o desactive la Spike, respectivamente. Para que la plante, Gekko debe tener la Spike en su inventario. Cuando Carnalito se agota, regresa a su forma de glóbulo en reposo; INTERACTÚA para recuperar el glóbulo y obtener otra carga de Carnalito tras un breve enfriamiento.",
+            "ability_name": "Q: Carnalito",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt84c8955357322ecd/64027318ec12cd34d0060449/Gekko_ability_Icon_Wingman_.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt79a9f8119f366ad1/64029afe10329144ff021282/Website_Gekko_Wingman_Stun_FNL.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt45baabd0280512bb/64029af64fd99f36ebe22d81/Website_Gekko_Wingman_Stun_FNL.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA a Vértigo. DISPARA para enviar a Vértigo volando hacia adelante. Vértigo carga y luego libera explosiones de plasma contra los enemigos en su campo de visión; los enemigos alcanzados por su plasma quedan cegados. Cuando Vértigo se agota, regresa a su forma de glóbulo en reposo; INTERACTÚA para recuperar el glóbulo y obtener otra carga de Vértigo tras un breve enfriamiento.",
+            "ability_name": "E: Vértigo",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt09558f0cb6be03a3/6402737a27ccd11087ac6a70/Gekko_ability_Icon_3.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7a75dbdd9b6c4220/64029b4743153734d1472d59/Website_Gekko_Dizzy_FNL.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt507d42fc5bac1a52/64029b3fec12cd34d0060480/Website_Gekko_Dizzy_FNL.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA a Pogo. DISPARA para lanzar a Pogo como una granada; presiona el DISPARO SECUNDARIO para lanzarlo por abajo. Al aterrizar, Pogo se duplica en una amplia zona y explota después de un corto lapso de tiempo.",
+            "ability_name": "C: Pogo Brutal",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb04bcc15680583e4/640273e5aa6c3f7f594bd1cf/Gekko_icon_mosh.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf9f635d9cb6cf999/64029aa343153734d1472d55/Website_Gekko_MoshPit_FNL.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0739b70762027f2f/64029a5210329144ff02127e/Website_Gekko_MoshPit_FNL.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "ability_description": "EQUIPA a Paliza. DISPARA para vincularte con la mente de Paliza y dirigirla a través del territorio enemigo; ACTIVA para embestir hacia adelante y explotar, lo que inmoviliza a los enemigos en un pequeño radio. Cuando Paliza se agota, regresa a su forma de glóbulo en reposo; INTERACTÚA para recuperar el glóbulo y obtener otra carga de Paliza tras un breve enfriamiento. Solo se puede recuperar a Paliza una vez.",
+            "ability_name": "X: Paliza",
+            "ability_icon": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb24321feccb0cb69/6402740fba95fe6a2554b0b5/Gekko_ability_icon_4.png"
+            },
+            "ability_video": [
+              {
+                "video": {
+                  "width": 1920,
+                  "height": 1080,
+                  "file": {
+                    "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a1188dafa478506/64029a1a205f2b7a60b74497/Website_Gekko_Thrash_FNL.mp4"
+                  }
+                },
+                "alternate_videos": [],
+                "static_image": {
+                  "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9ae087e7b4a6914e/64029a087af6422f7a2488e4/Website_Gekko_Thrash_FNL.jpg"
+                }
+              }
+            ]
+          }
+        ],
+        "agent_image": {
+          "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc942933be01094ae/6402724fe9f75310481c3851/V_AGENTS_587x900_Gekko2.png"
+        },
+        "agent_background": null,
+        "agent_background_video": [
+          {
+            "alternate_videos": [],
+            "video": {
+              "file": {
+                "url": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt29d7c4f6bc077e9e/5eb26f54402b8b4d13a56656/agent-background-generic.mp4"
+              },
+              "height": 852,
+              "width": 2048
+            },
+            "static_image": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG"
+            }
+          }
+        ]
+      }
+    ]
+  }
