@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Changa', sans-serif;
 }
 
 body {
@@ -100,10 +101,61 @@ body {
     padding: 0 10px;
 }
 
+.result li a {
+    outline:none;
+    width: 100%;
+}
+.result li a:hover{
+    outline:none;
+    color: white;
+    cursor: pointer
+}
+
 .result li:hover{
     background-color: #383838;
     color: white;
     cursor: pointer
+}
+
+.Agentes {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+
+.cont {
+    display: flex;
+    width: 100%;
+    background-color:white;
+    margin: 2rem;
+}
+
+.titulo {    display: flex;
+
+    width: 95%;
+    color: white;
+    margin-left: 40px;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo img{
+    width: 40px;
+    height: 40px;
+    padding: 10px 10px 0 10px;
+}
+
+.nombreA{
+    display: flex;
+}
+
+.description{
+    width: 25%;
 }
 
 

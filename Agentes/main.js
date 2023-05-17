@@ -49,6 +49,8 @@ async function agentes(url, options) {
 
 let agenteSeleccionado
 
+let container = document.querySelector('conteiner')
+
 async function agt(url, options) {
   let agentesData = await agentes(url, options);
   console.log(agentesData);
@@ -70,6 +72,28 @@ async function agt(url, options) {
           li.addEventListener('click', () => {
             agenteSeleccionado = data.title; 
             console.log(agenteSeleccionado);
+            document.querySelector('.conteiner').style.display = 'none';
+            document.querySelector('.Agentes').style.display = 'flex';
+            document.querySelector('.cont').innerHTML = `
+            <div class="titulo">
+              <div class="nombreA">
+                <h1>${data.title}</h1>
+                <img src="${data.role_icon.url}">
+              </div>
+              <div>
+                <div class="description">
+                  <h2>// BIOGRAFÍA</h2>
+                  <p>${data.description}</p>
+                </div>
+              </div>
+            </div>
+            <div class="imagenAgente">
+              <img src="${data.agent_image.url}"
+            </div>
+            `
+            
+
+             
           });
           listaB.appendChild(li);
         });
@@ -80,7 +104,6 @@ async function agt(url, options) {
     }
     textoBusqueda = nuevoTextoBusqueda;
   });
-  return agenteSeleccionado
 }
 
 document.addEventListener('keyup', () => {
