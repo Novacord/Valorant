@@ -152,7 +152,9 @@ body {
 
 .nombreA{
     display: flex;
+    width: 100%;
     margin-top: 10px;
+    justify-content: flex-start;
 }
 
 .description{
@@ -167,7 +169,7 @@ body {
 .habilidades{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: px;
     margin-left: 60px;
     justify-content: space-between;
     flex-wrap: nowrap;
@@ -196,9 +198,28 @@ body {
 }
 
 .video video{
-    width: 200px;
+    width: 50rem;
+    margin-top: 20px;
 }
 
+.cerrar {
+    margin-right: 500px;
+    width: 60px;
+    background: transparent;
+    border-radius: none;
+    border: 1px solid white;
+    margin-left: 5px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.cerrar:hover {
+    background: red;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
 
 @media only screen and (max-width: 700px) {
     .botonV {

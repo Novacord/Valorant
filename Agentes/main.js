@@ -28,6 +28,7 @@ const searchUserAsync = async (agentName) => {
   try {
     const response = await fetch(`../valorant.json`);
     const data = await response.json();
+    console.log(data.agents[0].abilities[0].ability_video[0].video.file.url);
     const matchingAgents = searchUser(data.agents, agentName);
     console.log(matchingAgents);
     return matchingAgents;
@@ -53,7 +54,6 @@ let container = document.querySelector('conteiner')
 
 async function agt(url, options) {
   let agentesData = await agentes(url, options);
-  console.log(agentesData);
   let buscador = document.getElementById('buscador');
   let listaB = document.getElementById('listaB');
   let textoBusqueda = '';
@@ -77,6 +77,7 @@ async function agt(url, options) {
             document.querySelector('.cont').innerHTML = `
             <div class="titulo">
               <div class="nombreA">
+                <button class="cerrar">X</button>
                 <h1>${data.title}</h1>
                 <img src="${data.role_icon.url}">
               </div>
@@ -92,42 +93,61 @@ async function agt(url, options) {
                   <button id="habilidad4"><img src="${data.abilities[3].ability_icon.url}"></button>
                 </div>
                 <div class="HabilidadDe">
-                  <p>${data.abilities[2].ability_description}</p>
+                  <p>${data.abilities[0].ability_description}</p>
                 </div>
               </div>
               <div class="video">
-                  <video preload="true" loop playsinline poster data-testid="abilities:video"><source src="${data.abilities[0].ability_video.url}" type="video/mp4"></video>
+                <video src="${data.abilities[0].ability_video[0].video.file.url}" autoplay muted loop></video>
               </div>
             </div>
             <div class="imagenAgente">
-              <img src="${data.agent_image.url}"
+              <img id='a' src="${data.agent_image.url}"
             </div>
             `
             document.querySelector('#habilidad1').addEventListener('click',()=>{
                 let infoA1 = `
                 <p>${data.abilities[0].ability_description}</p>
                 `
+                let video1 =`
+                <video src="${data.abilities[0].ability_video[0].video.file.url}" autoplay muted loop></video>
+                `
                 document.querySelector(".HabilidadDe").innerHTML = infoA1
+                document.querySelector(".video").innerHTML = video1
             })
             document.querySelector('#habilidad2').addEventListener('click',()=>{
               let infoA2 = `
               <p>${data.abilities[1].ability_description}</p>
               `
+              let video2 =`
+              <video src="${data.abilities[1].ability_video[0].video.file.url}" autoplay muted loop></video>
+              `
               document.querySelector(".HabilidadDe").innerHTML = infoA2
+              document.querySelector(".video").innerHTML = video2
           })
           document.querySelector('#habilidad3').addEventListener('click',()=>{
             let infoA3 = `
             <p>${data.abilities[2].ability_description}</p>
             `
+            let video3 =`
+              <video src="${data.abilities[2].ability_video[0].video.file.url}" autoplay muted loop></video>
+              `
             document.querySelector(".HabilidadDe").innerHTML = infoA3
+            document.querySelector(".video").innerHTML = video3
         })
         document.querySelector('#habilidad4').addEventListener('click',()=>{
           let infoA4 = `
           <p>${data.abilities[3].ability_description}</p>
           `
+          let video4 =`
+              <video src="${data.abilities[3].ability_video[0].video.file.url}" autoplay muted loop></video>
+              `
           document.querySelector(".HabilidadDe").innerHTML = infoA4
+          document.querySelector(".video").innerHTML = video4
       })
-             
+      document.querySelector('.cerrar').addEventListener('click',()=>{
+        document.querySelector('.conteiner').style.display = 'block';
+        document.querySelector('.Agentes').style.display = 'none';
+      })
           });
           listaB.appendChild(li);
         });
@@ -143,8 +163,5 @@ async function agt(url, options) {
 document.addEventListener('keyup', () => {
   agt(url, options);
 });
-
-
-
 
 
