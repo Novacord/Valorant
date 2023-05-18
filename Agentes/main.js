@@ -80,19 +80,53 @@ async function agt(url, options) {
                 <h1>${data.title}</h1>
                 <img src="${data.role_icon.url}">
               </div>
-              <div>
+              <div class="info">
                 <div class="description">
                   <h2>// BIOGRAFÍA</h2>
                   <p>${data.description}</p>
                 </div>
+                <div class="habilidades">
+                  <button id="habilidad1"><img src="${data.abilities[0].ability_icon.url}"></button>
+                  <button id="habilidad2"><img src="${data.abilities[1].ability_icon.url}"></button>
+                  <button id="habilidad3"><img src="${data.abilities[2].ability_icon.url}"></button>
+                  <button id="habilidad4"><img src="${data.abilities[3].ability_icon.url}"></button>
+                </div>
+                <div class="HabilidadDe">
+                  <p>${data.abilities[2].ability_description}</p>
+                </div>
+              </div>
+              <div class="video">
+                  <video preload="true" loop playsinline poster data-testid="abilities:video"><source src="${data.abilities[0].ability_video.url}" type="video/mp4"></video>
               </div>
             </div>
             <div class="imagenAgente">
               <img src="${data.agent_image.url}"
             </div>
             `
-            
-
+            document.querySelector('#habilidad1').addEventListener('click',()=>{
+                let infoA1 = `
+                <p>${data.abilities[0].ability_description}</p>
+                `
+                document.querySelector(".HabilidadDe").innerHTML = infoA1
+            })
+            document.querySelector('#habilidad2').addEventListener('click',()=>{
+              let infoA2 = `
+              <p>${data.abilities[1].ability_description}</p>
+              `
+              document.querySelector(".HabilidadDe").innerHTML = infoA2
+          })
+          document.querySelector('#habilidad3').addEventListener('click',()=>{
+            let infoA3 = `
+            <p>${data.abilities[2].ability_description}</p>
+            `
+            document.querySelector(".HabilidadDe").innerHTML = infoA3
+        })
+        document.querySelector('#habilidad4').addEventListener('click',()=>{
+          let infoA4 = `
+          <p>${data.abilities[3].ability_description}</p>
+          `
+          document.querySelector(".HabilidadDe").innerHTML = infoA4
+      })
              
           });
           listaB.appendChild(li);
