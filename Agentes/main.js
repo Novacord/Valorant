@@ -161,7 +161,7 @@ async function agt(url, options) {
 }
 
 document.addEventListener('keyup', () => {
-  agt(url, options);
+  agt();
 });
 
 
